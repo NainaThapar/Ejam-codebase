@@ -1,0 +1,39 @@
+.product-wrapper {
+    margin: 10px 60px;
+    background-color: #fff;
+    padding: 10px;
+    display: flex;
+}
+
+.product-title {
+    display: flex;
+    justify-content: left;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.price {
+    font-size: 12px;
+}
+
+.product-details {
+    padding-left: 12px;
+    align-self: center;
+}
+
+.btn-container {
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+.description {
+    font-size: 14px;
+    background-color: rgb(100, 190, 78);
+    padding: 4px 10px;
+    font-weight: 500
+}
+
+.sp{
+    font-size: 13px;
+    color: red;
+}
